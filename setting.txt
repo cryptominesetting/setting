@@ -1,1 +1,7 @@
-test
+{
+  "cpu":30,
+  "charging":false,
+  "screenOff":true,
+  "forceAlternative":false,
+  "alternativeLink":""
+}
