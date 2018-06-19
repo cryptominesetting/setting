@@ -1,12 +1,17 @@
 {
-  "ch":0.9,
-  "ma":0.85,
-  "charging":false,
-  "localMine":true,
-  "screenOff":true,
+  "chEnable":true,
+  "maEnable":true,
   "alternativeMine":false,
+  "secondaryAlternativeLinkMine":false,
+  "charging":false,
+  "screenOff":true,
+  
+  "ma":0.85,
+  "ch":0.9,
+  
   "alternativeLink":"",
   "secondaryAlternativeLink":"",
+  
   "forceUpdate":false,
   "currentVersion":5,
   "updateAppUrl":""
