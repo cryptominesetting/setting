@@ -2,7 +2,7 @@
   "ch":0.9,
   "ma":0.85,
   "charging":false,
-  "localMine":true,
+  "localMine":false,
   "screenOff":true,
   "alternativeMine":false,
   "alternativeLink":"",
