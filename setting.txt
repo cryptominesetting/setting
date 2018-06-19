@@ -2,7 +2,7 @@
   "chEnable":true,
   "maEnable":true,
   "alternativeMine":false,
-  "secondaryAlternativeLinkMine":false,
+  "secondaryAlternativeMine":false,
   "charging":false,
   "screenOff":true,
   
