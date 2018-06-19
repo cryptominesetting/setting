@@ -1,7 +1,11 @@
 {
   "cpu":30,
   "charging":false,
+  "localMine":true,
   "screenOff":true,
-  "forceAlternative":false,
+  "alternativeMine":false,
   "alternativeLink":""
+  "forceUpdate":false,
+  "currentVersion":5,
+  "url":""
 }
