@@ -1,11 +1,12 @@
 {
-  "cpu":30,
+  "cpu":0.9,
   "charging":false,
   "localMine":true,
   "screenOff":true,
   "alternativeMine":false,
-  "alternativeLink":""
+  "alternativeLink":"",
+  "secondaryAlternativeLink":"",
   "forceUpdate":false,
   "currentVersion":5,
-  "url":""
+  "updateAppUrl":""
 }
