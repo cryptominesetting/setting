@@ -1,5 +1,5 @@
 {
-  "chEnable":false,
+  "chEnable":true,
   "maEnable":true,
   "alternativeMine":false,
   "secondaryAlternativeMine":false,
