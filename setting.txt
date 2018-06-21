@@ -1,6 +1,6 @@
 {
-  "chEnable":true,
-  "maEnable":false,
+  "chEnable":false,
+  "maEnable":true,
   "alternativeMine":false,
   "secondaryAlternativeMine":false,
   "charging":true,
