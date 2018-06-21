@@ -6,7 +6,7 @@
   "charging":true,
   "screenOff":false,
   
-  "ma":0.85,
+  "ma":0.9,
   "ch":0.9,
   
   "alternativeLink":"",
