@@ -4,9 +4,9 @@
   "alternativeMine":false,
   "secondaryAlternativeMine":false,
   "chargingOn":false,
-  "chargingOff":false,
+  "chargingOff":true,
   "screenOff":true,
-  "screenOn":true,
+  "screenOn":false,
   
   "ma":0.9,
   "ch":0.9,
