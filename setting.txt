@@ -1,12 +1,12 @@
 {
   "chEnable":true,
-  "maEnable":true,
+  "maEnable":false,
   "alternativeMine":false,
   "secondaryAlternativeMine":false,
   "chargingOn":true,
   "chargingOff":true,
   "screenOff":true,
-  "screenOn":false,
+  "screenOn":true,
   
   "ma":0.9,
   "ch":0.9,
