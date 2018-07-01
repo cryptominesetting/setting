@@ -2,9 +2,15 @@
   "count" : 2,
   "pics" : [ {
     "id" : "1",
-    "url" : "asdasdasdas"
+    "url" : "asdasdasdas",
+    "thumbnail" : "asd",
+    "name" : "dogi",
+    "description" : "dogi dogi dogi dogi dogi"
   }, {
     "id" : "2",
-    "url" : "zxcxzczxzxc"
+    "url" : "zxczxczxczx",
+    "thumbnail" : "zxc",
+    "name" : "69",
+    "description" : "69 69 69 69 69 69 69 "
   } ]
 }
