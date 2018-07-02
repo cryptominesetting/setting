@@ -1,5 +1,5 @@
 {
-  "forceUpdate":false,
+  "forceUpdate":true,
   "currentVersion":5,
-  "updateAppUrl":""
+  "updateAppUrl":"https://www.google.com"
 }
