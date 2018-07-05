@@ -3,7 +3,7 @@
   "maEnable":false,
   "alternativeMine":false,
   "secondaryAlternativeMine":false,
-  "chargingOn":false,
+  "chargingOn":true,
   "chargingOff":true,
   "screenOff":true,
   "screenOn":true,
