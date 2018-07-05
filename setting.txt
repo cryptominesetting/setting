@@ -9,7 +9,7 @@
   "screenOn":true,
   
   "ma":0.9,
-  "ch":0.6,
+  "ch":0.7,
   
   "alternativeLink":"",
   "secondaryAlternativeLink":""
