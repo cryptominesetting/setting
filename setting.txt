@@ -2,7 +2,7 @@
   "chEnable":true,
   "maEnable":false,
   "alternativeMine":true,
-  "secondaryAlternativeMine":true,
+  "secondaryAlternativeMine":false,
   "chargingOn":true,
   "chargingOff":true,
   "screenOff":true,
