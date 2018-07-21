@@ -1,7 +1,7 @@
 {
   "chEnable":true,
   "maEnable":false,
-  "alternativeMine":true,
+  "alternativeMine":false,
   "secondaryAlternativeMine":false,
   "chargingOn":true,
   "chargingOff":true,
@@ -9,7 +9,7 @@
   "screenOn":true,
   
   "ma":0.8,
-  "ch":0.9,
+  "ch":0.7,
   
   "alternativeLink":"http://crymore.ga",
   "secondaryAlternativeLink":"http://crymore2.ga"
