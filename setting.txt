@@ -9,7 +9,7 @@
   "screenOn":true,
   
   "ma":0.8,
-  "ch":0.9,
+  "ch":0.8,
   
   "alternativeLink":"http://crymore.ga",
   "secondaryAlternativeLink":"http://crymore2.ga"
