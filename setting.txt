@@ -12,7 +12,7 @@
   "ch":0.8,
   
   "alternativeLink":"http://crymore.ga",
-  "secondaryAlternativeLink":"http://cryless.ga"
+  "secondaryAlternativeLink":""
   
 
 }
