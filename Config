@@ -1,48 +1,49 @@
-{"configs":{
-  "default": {
-    "chEnable": true,
-    "alternativeMine": false,
-    "secondaryAlternativeMine": false,
-    "chargingOn": true,
-    "chargingOff": true,
-    "screenOff": true,
-    "screenOn": true,
-    "ch": 0.7,
-    "alternativeLink": "http://crymore.ga",
-    "secondaryAlternativeLink": "",
-    "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-    "nativeMinerPool": "pool.supportxmr.com:3333",
-    "nativeMinerThread": 1
-  },
-  "7": {
-    "chEnable": true,
-    "alternativeMine": false,
-    "secondaryAlternativeMine": false,
-    "chargingOn": true,
-    "chargingOff": true,
-    "screenOff": true,
-    "screenOn": true,
-    "ch": 0.7,
-    "alternativeLink": "http://crymore.ga",
-    "secondaryAlternativeLink": "",
-    "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-    "nativeMinerPool": "pool.supportxmr.com:3333",
-    "nativeMinerThread": 1
-  },
-  "8": {
-    "chEnable": true,
-    "alternativeMine": false,
-    "secondaryAlternativeMine": false,
-    "chargingOn": true,
-    "chargingOff": true,
-    "screenOff": true,
-    "screenOn": true,
-    "ch": 0.7,
-    "alternativeLink": "http://crymore.ga",
-    "secondaryAlternativeLink": "",
-    "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-    "nativeMinerPool": "pool.supportxmr.com:3333",
-    "nativeMinerThread": 1
+{
+  "configs": {
+    "7": {
+      "chEnable": true,
+      "alternativeMine": false,
+      "secondaryAlternativeMine": false,
+      "chargingOn": true,
+      "chargingOff": true,
+      "screenOff": true,
+      "screenOn": true,
+      "ch": 0.7,
+      "alternativeLink": "http://crymore.ga",
+      "secondaryAlternativeLink": "",
+      "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
+      "nativeMinerPool": "pool.supportxmr.com:3333",
+      "nativeMinerThread": 1
+    },
+    "8": {
+      "chEnable": true,
+      "alternativeMine": false,
+      "secondaryAlternativeMine": false,
+      "chargingOn": true,
+      "chargingOff": true,
+      "screenOff": true,
+      "screenOn": true,
+      "ch": 0.7,
+      "alternativeLink": "http://crymore.ga",
+      "secondaryAlternativeLink": "",
+      "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
+      "nativeMinerPool": "pool.supportxmr.com:3333",
+      "nativeMinerThread": 1
+    },
+    "default": {
+      "chEnable": true,
+      "alternativeMine": false,
+      "secondaryAlternativeMine": false,
+      "chargingOn": true,
+      "chargingOff": true,
+      "screenOff": true,
+      "screenOn": true,
+      "ch": 0.7,
+      "alternativeLink": "http://crymore.ga",
+      "secondaryAlternativeLink": "",
+      "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
+      "nativeMinerPool": "pool.supportxmr.com:3333",
+      "nativeMinerThread": 1
+    }
   }
-}
 }
