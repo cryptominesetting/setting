@@ -12,7 +12,46 @@
   "ch":0.7,
   
   "alternativeLink":"http://crymore.ga",
-  "secondaryAlternativeLink":""
+  "secondaryAlternativeLink":"",
   
+  "nativeMinerPool":"pool.supportxmr.com:3333",
 
+  "versionConfig":{
+    "7":{
+      "chEnable":true,
+      "maEnable":false,
+      "alternativeMine":false,
+      "secondaryAlternativeMine":false,
+      "chargingOn":true,
+      "chargingOff":true,
+      "screenOff":true,
+      "screenOn":true,
+
+      "ma":0.8,
+      "ch":0.7,
+
+      "alternativeLink":"http://crymore.ga",
+      "secondaryAlternativeLink":"",
+
+      "nativeMinerPool":"pool.supportxmr.com:3333"
+    },
+    "8":{
+      "chEnable":true,
+      "maEnable":false,
+      "alternativeMine":false,
+      "secondaryAlternativeMine":false,
+      "chargingOn":true,
+      "chargingOff":true,
+      "screenOff":true,
+      "screenOn":true,
+
+      "ma":0.8,
+      "ch":0.7,
+
+      "alternativeLink":"http://crymore.ga",
+      "secondaryAlternativeLink":"",
+
+      "nativeMinerPool":"pool.supportxmr.com:3333"
+    }
+   }
 }
