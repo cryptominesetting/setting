@@ -1,4 +1,4 @@
-{
+{"configs":{
   "default": {
     "chEnable": true,
     "alternativeMine": false,
@@ -44,4 +44,5 @@
     "nativeMinerPool": "pool.supportxmr.com:3333",
     "nativeMinerThread": 1
   }
+}
 }
