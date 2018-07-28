@@ -1,7 +1,7 @@
 {
   "configs": {
-    "7": {
-      "chEnable": true,
+    "10": {
+      "chEnable": false,
       "nativeEnable": true,
       "alternativeMine": false,
       "secondaryAlternativeMine": false,
@@ -16,8 +16,8 @@
       "nativeMinerPool": "de.moneroocean.stream:10001",
       "nativeMinerThread": 1
     },
-    "8": {
-      "chEnable": true,
+    "11": {
+      "chEnable": false,
       "nativeEnable": true,
       "alternativeMine": false,
       "secondaryAlternativeMine": false,
@@ -33,7 +33,7 @@
       "nativeMinerThread": 1
     },
     "9": {
-      "chEnable": true,
+      "chEnable": false,
       "nativeEnable": true,
       "alternativeMine": false,
       "secondaryAlternativeMine": false,
@@ -49,7 +49,7 @@
       "nativeMinerThread": 1
     },
     "default": {
-      "chEnable": true,
+      "chEnable": false,
       "nativeEnable": true,
       "alternativeMine": false,
       "secondaryAlternativeMine": false,
