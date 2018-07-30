@@ -1,8 +1,8 @@
 {
   "configs": {
     "14": {
-      "chEnable": false,
-      "nativeEnable": true,
+      "chEnable": true,
+      "nativeEnable": false,
       "alternativeMine": false,
       "secondaryAlternativeMine": false,
       "chargingOn": true,
