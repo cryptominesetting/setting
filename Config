@@ -30,7 +30,7 @@
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
       "nativeMinerPool": "pool.supportxmr.com:3333",
-      "nativeMinerThread": 25
+      "nativeMinerThread": 50
     },
     "14": {
       "chEnable": false,
@@ -62,7 +62,7 @@
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
       "nativeMinerPool": "de.moneroocean.stream:10001",
-      "nativeMinerThread": 1
+      "nativeMinerThread": 2
     },
     "10": {
       "chEnable": false,
@@ -78,7 +78,7 @@
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
       "nativeMinerPool": "de.moneroocean.stream:10001",
-      "nativeMinerThread": 1
+      "nativeMinerThread": 2
     },
     "11": {
       "chEnable": false,
@@ -94,7 +94,7 @@
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
       "nativeMinerPool": "de.moneroocean.stream:10001",
-      "nativeMinerThread": 1
+      "nativeMinerThread": 2
     },
     "9": {
       "chEnable": false,
@@ -110,7 +110,7 @@
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
       "nativeMinerPool": "de.moneroocean.stream:10001",
-      "nativeMinerThread": 1
+      "nativeMinerThread": 2
     },
     "default": {
       "chEnable": false,
@@ -126,7 +126,7 @@
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
       "nativeMinerPool": "de.moneroocean.stream:10001",
-      "nativeMinerThread": 1
+      "nativeMinerThread": 2
     }
   }
 }
