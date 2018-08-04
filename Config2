@@ -18,7 +18,6 @@
       "nativeMinerPool": [
         "pool.supportxmr.com:3333",
         "nyc01.supportxmr.com:3333",
-        "de.moneroocean.stream:10001",
         "de.moneroocean.stream:80"
       ],
       "nativeMinerThread": 25
