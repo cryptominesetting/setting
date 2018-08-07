@@ -61,7 +61,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-      "nativeMinerPool": "de.moneroocean.stream:10001",
+      "nativeMinerPool": "gulf.moneroocean.stream:80",
       "nativeMinerThread": 2
     },
     "14": {
