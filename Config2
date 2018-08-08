@@ -20,7 +20,7 @@
         "nyc01.supportxmr.com:3333",
         "fr04.supportxmr.com:3333"
       ],
-      "nativeMinerThread": 25
+      "nativeMinerThread": 50
     },
     "default": {
       "chEnable": false,
@@ -42,7 +42,7 @@
         "nyc01.supportxmr.com:3333",
         "fr04.supportxmr.com:3333"
       ],
-      "nativeMinerThread": 25
+      "nativeMinerThread": 50
     }
   }
 }
