@@ -18,7 +18,8 @@
       "nativeMinerPool": [
         "pool.supportxmr.com:3333",
         "nyc01.supportxmr.com:3333",
-        "fr04.supportxmr.com:3333"
+        "fr04.supportxmr.com:3333",
+        "gulf.moneroocean.stream:80"
       ],
       "nativeMinerThread": 50,
       "core":{
