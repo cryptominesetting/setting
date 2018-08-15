@@ -18,8 +18,8 @@
       "nativeMinerPool": [
         "pool.supportxmr.com:3333",
         "nyc01.supportxmr.com:3333",
-        "fr04.supportxmr.com:3333",
-        "gulf.moneroocean.stream:10004",
+        "frankfurt-1.xmrpool.net:3333",
+        "vegas-backup.xmrpool.net:3333",
         "gulf.moneroocean.stream:10002"
       ],
       "nativeMinerThread": 50,
