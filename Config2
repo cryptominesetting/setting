@@ -21,8 +21,8 @@
         "hk01.supportxmr.com:3333",
         "hk02.supportxmr.com:3333",
         "fr04.supportxmr.com:3333",
-        "gulf.moneroocean.stream:10002",
-        "gulf.moneroocean.stream:10004"
+        "aus01.supportxmr.com:3333",
+        "de02.supportxmr.com:3333"
       ],
       "nativeMinerThread": 50,
       "core":{
