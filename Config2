@@ -22,6 +22,8 @@
         "hk02.supportxmr.com:3333",
         "fr04.supportxmr.com:3333",
         "aus01.supportxmr.com:3333",
+        "at03.supportxmr.com:3333",
+        "at01.supportxmr.com:3333",
         "de02.supportxmr.com:3333"
       ],
       "nativeMinerThread": 50,
