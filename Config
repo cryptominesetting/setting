@@ -77,7 +77,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-      "nativeMinerPool": "pool.supportxmr.com:3333",
+      "nativeMinerPool": "de01.supportxmr.com:3333",
       "nativeMinerThread": 50
     },
     "15": {
@@ -93,7 +93,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-      "nativeMinerPool": "pool.supportxmr.com:3333",
+      "nativeMinerPool": "de02.supportxmr.com:3333",
       "nativeMinerThread": 50
     },
     "16": {
@@ -109,7 +109,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-      "nativeMinerPool": "pool.supportxmr.com:3333",
+      "nativeMinerPool": "de02.supportxmr.com:3333",
       "nativeMinerThread": 50
     },
     "default": {
@@ -125,7 +125,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
-      "nativeMinerPool": "pool.supportxmr.com:3333",
+      "nativeMinerPool": "at04.supportxmr.com:3333",
       "nativeMinerThread": 2
     }
   }
