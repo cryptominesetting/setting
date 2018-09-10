@@ -45,7 +45,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "LngwVZKYMXPYkbKHQe7mQGdPqs923fLPPYSKgHWdEEPR7AgVjoR5KEEf4cqRJ8VXz55dWuvxcxjgsfw2t9th3DhsNpMAKhY",
-      "nativeMinerPool": "xlc.dark-mine.su:1111",
+      "nativeMinerPool": "pool.xlc.fairhash.org:4333",
       "nativeMinerThread": 2
     },
     "13": {
