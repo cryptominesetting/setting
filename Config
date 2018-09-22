@@ -108,8 +108,8 @@
       "ch": 0.7,
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
-      "wallet": "cxqdRoirSbZE1qD3oPWBVx7vHz2ZEmxLxGNA4qww5UTHCUB2bKhYK7L9pLdLjuXWKMiQF9YYyh1UASYNCmBZ8M8m1wf6ViuVz",
-      "nativeMinerPool": "ctl.pool.mine2gether.com:1114",
+      "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
+      "nativeMinerPool": "phx02.supportxmr.com:3333",
       "nativeMinerThread": 50
     },
     "default": {
