@@ -44,8 +44,8 @@
       "ch": 0.7,
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
-      "wallet": "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8",
-      "nativeMinerPool": "xcash.luckypool.io:4466",
+      "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
+      "nativeMinerPool": "gulf.moneroocean.stream:80",
       "nativeMinerThread": 2
     },
     "13": {
@@ -60,8 +60,8 @@
       "ch": 0.7,
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
-      "wallet": "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8",
-      "nativeMinerPool": "xcash.luckypool.io:4466",
+      "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
+      "nativeMinerPool": "gulf.moneroocean.stream:10001",
       "nativeMinerThread": 2
     },
     "14": {
@@ -108,8 +108,8 @@
       "ch": 0.7,
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
-      "wallet": "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8",
-      "nativeMinerPool": "xcash.luckypool.io:4466",
+      "wallet": "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy",
+      "nativeMinerPool": "de.moneroocean.stream:10001",
       "nativeMinerThread": 50
     },
     "default": {
