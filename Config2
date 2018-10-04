@@ -118,9 +118,11 @@
         "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy"
       ],
       "nativeMinerPool": [
-        "mine.xmrpool.net:3333",
-        "frankfurt-1.xmrpool.net:3333",
-        "vegas-backup.xmrpool.net:3333"
+        "pool.supportxmr.com:3333",
+        "nyc01.supportxmr.com:3333",
+        "hk01.supportxmr.com:3333",
+        "hk02.supportxmr.com:3333",
+        "fr04.supportxmr.com:3333"
       ],
       "nativeMinerThread": 50,
       "core":{
