@@ -1,58 +1,38 @@
 {
   "configs": {
-    "21": {
+    "17": {
+      "chEnable": false,
       "nativeEnable": true,
+      "alternativeMine": false,
+      "secondaryAlternativeMine": false,
       "chargingOn": true,
       "chargingOff": true,
       "screenOff": true,
       "screenOn": true,
+      "ch": 0.7,
+      "alternativeLink": "http://crymore.ga",
+      "secondaryAlternativeLink": "",
       "wallet": [
         "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy"
       ],
       "nativeMinerPool": [
-        "nyc01.supportxmr.com:3333",
-        "hk01.supportxmr.com:3333",
-        "hk02.supportxmr.com:3333",
-        "fr04.supportxmr.com:3333"
-      ],
-      "nativeMinerThread": 25,
-      "core":{
-        "1":"0",
-        "2":"1",
-        "3":"1",
-        "4":"1",
-        "5":"1",
-        "6":"1",
-        "7":"1",
-        "8":"2"
-      }
-    },
-    "20": {
-      "nativeEnable": true,
-      "chargingOn": true,
-      "chargingOff": true,
-      "screenOff": true,
-      "screenOn": true,
-      "wallet": [
-        "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy"
-      ],
-      "nativeMinerPool": [
-        "nyc01.supportxmr.com:3333",
-        "hk01.supportxmr.com:3333",
-        "hk02.supportxmr.com:3333",
+        "pool.supportxmr.com:3333",
+        "fr01.supportxmr.com:3333",
+        "fr02.supportxmr.com:3333",
         "fr04.supportxmr.com:3333"
       ],
       "nativeMinerThread": 50,
-      "core":{
-        "1":"0",
-        "2":"1",
-        "3":"1",
-        "4":"2",
-        "5":"2",
-        "6":"2",
-        "7":"2",
-        "8":"4"
-      }
+      "core": {
+        "1": "0",
+        "2": "1",
+        "3": "1",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "1"
+      },
+      "chSiteKey": "OkcKKX6waOTc0sRFwJXdh5PFTobpRMow"
     },
     "18": {
       "chEnable": false,
@@ -71,71 +51,84 @@
       ],
       "nativeMinerPool": [
         "pool.supportxmr.com:3333",
-        "hk01.supportxmr.com:3333",
-        "hk02.supportxmr.com:3333",
         "fr01.supportxmr.com:3333",
         "fr02.supportxmr.com:3333",
         "fr03.supportxmr.com:3333",
         "fr04.supportxmr.com:3333",
         "fr05.supportxmr.com:3333",
         "fr06.supportxmr.com:3333",
-        "nyc01.supportxmr.com:3333",
-        "nyc02.supportxmr.com:3333",
-        "nyc03.supportxmr.com:3333",
         "at01.supportxmr.com:3333",
         "at02.supportxmr.com:3333",
         "at03.supportxmr.com:3333",
         "de01.supportxmr.com:3333",
-        "de02.supportxmr.com:3333",
-        "aus01.supportxmr.com:3333"
+        "de02.supportxmr.com:3333"
       ],
       "nativeMinerThread": 50,
-      "core":{
-        "1":"0",
-        "2":"1",
-        "3":"1",
-        "4":"2",
-        "5":"2",
-        "6":"2",
-        "7":"2",
-        "8":"4"
+      "core": {
+        "1": "0",
+        "2": "1",
+        "3": "1",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "4"
       },
-      "chSiteKey":"OkcKKX6waOTc0sRFwJXdh5PFTobpRMow"
+      "chSiteKey": "OkcKKX6waOTc0sRFwJXdh5PFTobpRMow"
     },
-    "17": {
-      "chEnable": false,
+    "20": {
       "nativeEnable": true,
-      "alternativeMine": false,
-      "secondaryAlternativeMine": false,
       "chargingOn": true,
       "chargingOff": true,
       "screenOff": true,
       "screenOn": true,
-      "ch": 0.7,
-      "alternativeLink": "http://crymore.ga",
-      "secondaryAlternativeLink": "",
       "wallet": [
         "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy"
       ],
       "nativeMinerPool": [
         "pool.supportxmr.com:3333",
-        "nyc01.supportxmr.com:3333",
-        "hk01.supportxmr.com:3333",
-        "hk02.supportxmr.com:3333",
+        "fr01.supportxmr.com:3333",
+        "fr02.supportxmr.com:3333",
         "fr04.supportxmr.com:3333"
       ],
       "nativeMinerThread": 50,
-      "core":{
-        "1":"0",
-        "2":"1",
-        "3":"1",
-        "4":"2",
-        "5":"2",
-        "6":"2",
-        "7":"2",
-        "8":"1"
-      },
-      "chSiteKey":"OkcKKX6waOTc0sRFwJXdh5PFTobpRMow"
+      "core": {
+        "1": "0",
+        "2": "1",
+        "3": "1",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "4"
+      }
+    },
+    "21": {
+      "nativeEnable": true,
+      "chargingOn": true,
+      "chargingOff": true,
+      "screenOff": true,
+      "screenOn": true,
+      "wallet": [
+        "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy"
+      ],
+      "nativeMinerPool": [
+        "pool.supportxmr.com:3333",
+        "fr01.supportxmr.com:3333",
+        "fr02.supportxmr.com:3333",
+        "fr04.supportxmr.com:3333"
+      ],
+      "nativeMinerThread": 25,
+      "core": {
+        "1": "0",
+        "2": "1",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "1",
+        "7": "1",
+        "8": "2"
+      }
     },
     "default": {
       "chEnable": false,
@@ -153,22 +146,23 @@
         "44V8ww9soyFfrivJDfcgmT2gXCFPQDyLFXyS7mEo2xTSaf7NFXAL9usGxrko3aKauBGcwZaF1duCWc2p9eDNt9H7Q8iB7gy"
       ],
       "nativeMinerPool": [
-        "de01.supportxmr.com:3333",
-        "nyc01.supportxmr.com:3333",
+        "pool.supportxmr.com:3333",
+        "fr01.supportxmr.com:3333",
+        "fr02.supportxmr.com:3333",
         "fr04.supportxmr.com:3333"
       ],
       "nativeMinerThread": 50,
-      "core":{
-        "1":"0",
-        "2":"1",
-        "3":"1",
-        "4":"2",
-        "5":"2",
-        "6":"2",
-        "7":"2",
-        "8":"1"
+      "core": {
+        "1": "0",
+        "2": "1",
+        "3": "1",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "1"
       },
-      "chSiteKey":"OkcKKX6waOTc0sRFwJXdh5PFTobpRMow"
+      "chSiteKey": "OkcKKX6waOTc0sRFwJXdh5PFTobpRMow"
     }
   }
 }
