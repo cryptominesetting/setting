@@ -44,10 +44,10 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": [
-        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
+        "iz44vSvCJ1PNAuyNekh2YRR3FEdR4RxGwRG2e6GgnQzh1JawC81wKJBj8u2cPDgfbKZFsUUiWj52fFkBkDyfmeDz2uUkEKeFD"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370"
+        "pool.letheancoin.com:4445"
       ],
       "nativeMinerThread": 50,
       "core": {
