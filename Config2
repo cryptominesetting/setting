@@ -13,10 +13,10 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": [
-        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
+        "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370"
+        "xcash.luckypool.io:4466"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -44,10 +44,10 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": [
-        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
+        "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370"
+        "xcash.luckypool.io:4466"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -69,10 +69,10 @@
       "screenOff": true,
       "screenOn": true,
       "wallet": [
-        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
+        "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370"
+        "xcash.luckypool.io:4466"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -93,10 +93,10 @@
       "screenOff": true,
       "screenOn": true,
       "wallet": [
-        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
+        "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370"
+        "xcash.luckypool.io:4466"
       ],
       "nativeMinerThread": 25,
       "core": {
@@ -123,10 +123,10 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": [
-        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
+        "XCA1jL3JpCL2eTLYsb5D457DGArPWcsezGjPYYunEzyyZVZzjNbhreTKm2xwf7gN9UQQPmC3oxB3x3WLa85FQBqc4AcirFJ2g8"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370"
+        "xcash.luckypool.io:4466"
       ],
       "nativeMinerThread": 50,
       "core": {
