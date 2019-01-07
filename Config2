@@ -47,8 +47,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370",
-        "pool.qrlpool.org:3333"
+        "qrl.herominers.com:10370"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -73,8 +72,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370",
-        "pool.qrlpool.org:3333"
+        "qrl.herominers.com:10370"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -98,8 +96,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370",
-        "pool.qrlpool.org:3333"
+        "qrl.herominers.com:10370"
       ],
       "nativeMinerThread": 25,
       "core": {
@@ -129,8 +126,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "qrl.herominers.com:10370",
-        "pool.qrlpool.org:3333"
+        "qrl.herominers.com:10370"
       ],
       "nativeMinerThread": 50,
       "core": {
