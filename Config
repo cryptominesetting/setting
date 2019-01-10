@@ -109,7 +109,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "PhyrexWucDQBz9UEwStVkmbrGUBuPF7U8VkAcDUFJB9DPbnVV53uBnbN1tmvKQRK3d3aiN8WHppjxAMtUJvaS3u6JpaNA3YQZCn3t",
-      "nativeMinerPool": "elphyrecoin.clevery.xyz:9981",
+      "nativeMinerPool": "elph-pool.4miner.me:9981",
       "nativeMinerThread": 50
     },
     "default": {
