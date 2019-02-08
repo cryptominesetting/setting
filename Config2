@@ -13,10 +13,10 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": [
-        "hozYjBSyrzuVB9CtfAt1oHQZKx5fJFrQbjH6WBoCf54j2M9z293DrvPTJArQrwhirSQHZZHRzSatiLAjzqkzXHSe8fbW6ayQLN"
+        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "hosp.rubypool.com:3333"
+        "pool.qrlpool.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -44,10 +44,10 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": [
-        "hozYjBSyrzuVB9CtfAt1oHQZKx5fJFrQbjH6WBoCf54j2M9z293DrvPTJArQrwhirSQHZZHRzSatiLAjzqkzXHSe8fbW6ayQLN"
+        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "hosp.rubypool.com:3333"
+        "pool.qrlpool.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -69,10 +69,10 @@
       "screenOff": true,
       "screenOn": true,
       "wallet": [
-        "hozYjBSyrzuVB9CtfAt1oHQZKx5fJFrQbjH6WBoCf54j2M9z293DrvPTJArQrwhirSQHZZHRzSatiLAjzqkzXHSe8fbW6ayQLN"
+        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "hosp.rubypool.com:3333"
+        "pool.qrlpool.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -93,10 +93,10 @@
       "screenOff": true,
       "screenOn": true,
       "wallet": [
-        "hozYjBSyrzuVB9CtfAt1oHQZKx5fJFrQbjH6WBoCf54j2M9z293DrvPTJArQrwhirSQHZZHRzSatiLAjzqkzXHSe8fbW6ayQLN"
+        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "hosp.rubypool.com:3333"
+        "pool.qrlpool.org:3333"
       ],
       "nativeMinerThread": 25,
       "core": {
@@ -123,10 +123,10 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": [
-        "hozYjBSyrzuVB9CtfAt1oHQZKx5fJFrQbjH6WBoCf54j2M9z293DrvPTJArQrwhirSQHZZHRzSatiLAjzqkzXHSe8fbW6ayQLN"
+        "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "hosp.rubypool.com:3333"
+        "pool.qrlpool.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
