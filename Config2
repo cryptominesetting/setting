@@ -16,7 +16,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "pool.qrlpool.org:3333"
+        "qrl.miningocean.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -47,7 +47,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "pool.qrlpool.org:3333"
+        "qrl.miningocean.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -72,7 +72,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "pool.qrlpool.org:3333"
+        "qrl.miningocean.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -96,7 +96,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "pool.qrlpool.org:3333"
+        "qrl.miningocean.org:3333"
       ],
       "nativeMinerThread": 25,
       "core": {
@@ -126,7 +126,7 @@
         "Q0105005d36e565f5487c1d950e59a04c05c4f410345d460d8bd4d59ca2428fe7b69cf6b787fa92"
       ],
       "nativeMinerPool": [
-        "pool.qrlpool.org:3333"
+        "qrl.miningocean.org:3333"
       ],
       "nativeMinerThread": 50,
       "core": {
