@@ -13,7 +13,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool": "xmv.go-mine.it:3333",
+      "nativeMinerPool": "xmv.pool.codpool.com:3331",
       "nativeMinerThread": 2
     },
     "10": {
@@ -29,7 +29,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool": "xmv.go-mine.it:3333",
+      "nativeMinerPool": "xmv.pool.codpool.com:3331",
       "nativeMinerThread": 2
     },
     "11": {
@@ -45,7 +45,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool":"xmv.go-mine.it:3333",
+      "nativeMinerPool":"xmv.pool.codpool.com:3331",
       "nativeMinerThread": 2
     },
     "13": {
@@ -61,7 +61,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool": "xmv.go-mine.it:3333",
+      "nativeMinerPool": "xmv.pool.codpool.com:3331",
       "nativeMinerThread": 2
     },
     "14": {
@@ -77,7 +77,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool": "xmv.go-mine.it:3333",
+      "nativeMinerPool": "xmv.pool.codpool.com:3331",
       "nativeMinerThread": 50
     },
     "15": {
@@ -93,7 +93,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool": "xmv.go-mine.it:3333",
+      "nativeMinerPool": "xmv.pool.codpool.com:3331",
       "nativeMinerThread": 50
     },
     "16": {
@@ -109,7 +109,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool": "xmv.go-mine.it:3333",
+      "nativeMinerPool": "xmv.pool.codpool.com:3331",
       "nativeMinerThread": 50
     },
     "default": {
@@ -125,7 +125,7 @@
       "alternativeLink": "http://crymore.ga",
       "secondaryAlternativeLink": "",
       "wallet": "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW",
-      "nativeMinerPool": "xmv.go-mine.it:3333",
+      "nativeMinerPool": "xmv.pool.codpool.com:3331",
       "nativeMinerThread": 2
     }
   }
