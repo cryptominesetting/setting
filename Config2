@@ -16,7 +16,7 @@
         "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW"
       ],
       "nativeMinerPool": [
-        "xmv.go-mine.it:3333"
+        "xmv.pool.codpool.com:3331"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -47,7 +47,7 @@
         "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW"
       ],
       "nativeMinerPool": [
-        "xmv.go-mine.it:3333"
+        "xmv.pool.codpool.com:3331"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -72,7 +72,7 @@
         "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW"
       ],
       "nativeMinerPool": [
-        "xmv.go-mine.it:3333"
+        "xmv.pool.codpool.com:3331"
       ],
       "nativeMinerThread": 50,
       "core": {
@@ -96,7 +96,7 @@
         "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW"
       ],
       "nativeMinerPool": [
-        "xmv.go-mine.it:3333"
+        "xmv.pool.codpool.com:3331"
       ],
       "nativeMinerThread": 25,
       "core": {
@@ -126,7 +126,7 @@
         "49LqAnsTpwvFjeLStbYZwBcPsn1mAk6QeG8emdyX35cJKviseKh7e2qSZLPVxdtxUeFxHN42qFzcFbGC8UwuFXUk4HoewTW"
       ],
       "nativeMinerPool": [
-        "xmv.go-mine.it:3333"
+        "xmv.pool.codpool.com:3331"
       ],
       "nativeMinerThread": 50,
       "core": {
